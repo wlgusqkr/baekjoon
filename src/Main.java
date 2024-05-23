@@ -1,9 +1,12 @@
+import problem.Baekjoon10101;
+
+
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
 
-        Baekjoon11005 baekjoon11005 = new Baekjoon11005();
+        Baekjoon10101 baekjoon10101 = new Baekjoon10101();
 
-        baekjoon11005.baekjoon11005();
+        baekjoon10101.problem();
 
     }
 }
